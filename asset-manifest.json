@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElNito7/calculator.git/static/css/main.9e9d50db.css",
+    "main.js": "/ElNito7/calculator.git/static/js/main.96c7cd3d.js",
+    "static/js/787.ba3ed531.chunk.js": "/ElNito7/calculator.git/static/js/787.ba3ed531.chunk.js",
+    "index.html": "/ElNito7/calculator.git/index.html",
+    "main.9e9d50db.css.map": "/ElNito7/calculator.git/static/css/main.9e9d50db.css.map",
+    "main.96c7cd3d.js.map": "/ElNito7/calculator.git/static/js/main.96c7cd3d.js.map",
+    "787.ba3ed531.chunk.js.map": "/ElNito7/calculator.git/static/js/787.ba3ed531.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9d50db.css",
+    "static/js/main.96c7cd3d.js"
+  ]
+}
